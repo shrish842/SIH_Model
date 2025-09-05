@@ -1,0 +1,13 @@
+# Large data files
+train.csv
+*.csv
+data/
+datasets/
+
+# Model files
+*.pkl
+*.h5
+*.model
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
